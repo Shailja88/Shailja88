@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shailja88
-- 👀 I’m interested in tech 
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in SDE and WEB DEVELOPER role
 - 💞️ I’m looking to collaborate on a project that needs fontend development using html and css
 - 📫 You can reach me through my email address genieshailja@gmail.com
 
